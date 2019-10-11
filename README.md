@@ -1,4 +1,4 @@
-# Game Development Project (1.1)
+# Game Development Project (1.2)
 
 ## Tools used  : Visual Studio, Photoshop
 
